@@ -54,10 +54,6 @@ dir
 
 cd Git_Course\
 
-path in windows =  H:\commands\Github\download\Git_Course
-
-
-
 comment : Git_Course ( working directory )
 
 stages  =  working directory  +  staging area  +  local repository  +  remote repository 
@@ -77,16 +73,13 @@ git push
 git fetch
 
 
-git config --global user.email "mostafamousabarakat@gmail"
+git config --global user.email "example.com"
+
 git config --global user.name "Your Name "
 
 git branch
 
 git remote -v  (result )
-
-origin https://github.com/Mostafa-Mousa/Git_Course.git (fetch)
-
-origin https://github.com/Mostafa-Mousa/Git_Course.git (push)
 
 git push origin master
 
