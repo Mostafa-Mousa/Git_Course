@@ -32,24 +32,6 @@ history           ( determine previous commands in cmnder )
 
 alias /?          ( deletes alias )
 
-ipconfig         ( ip data )
-                     
-                    =  Connection-specific DNS Suffix  . : 
-
-                        Link-local IPv6 ....                           : fe80::5e7:ed5f:9ae8:6ed4%11
-
-                        Pv6  Address ................................ : 192.168.1.100
-
-                        Subnet Mask   ..............................  : 255.255.255.0
-
-                        Default Gateway............................  : 192.168.1.1
-
-Tunnel adapter isatap.{8E1FEF35-3E65-4DE2-9303-28F061798BB0}:
-
-Media State  ..........................................................   : Media  disconnected
-
-                       Connection-specific DNS Suffix  . : 
-
 
 ipconfig && mspaint
 
@@ -73,10 +55,6 @@ dir
 
 cd Git_Course\
 
-path in windows =  H:\commands\Github\download\Git_Course
-
-
-
 comment : Git_Course ( working directory )
 
 stages  =  working directory  +  staging area  +  local repository  +  remote repository 
@@ -94,10 +72,6 @@ git merge
 git push 
 
 git fetch
-
-
-git config --global user.email "mostafamousabarakat@gmail"
-git config --global user.name "Your Name "
 
 git branch
 
